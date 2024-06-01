@@ -1,0 +1,1 @@
+//stack(for primitive datatype) ,heap(0for non-premitive datatype)
