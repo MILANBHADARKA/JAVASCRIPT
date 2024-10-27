@@ -1,6 +1,6 @@
 let mynumber = [1,2,3,4,5,6,7,8,9,10]
 
-let newnums = mynumber.map( (num) => num+10)
+let newnums = mynumber.map( (num) => num+10)                 //map is use for iteration of array and it takes a function as an argument
 
 console.log(newnums);
 console.log("\n\n");
